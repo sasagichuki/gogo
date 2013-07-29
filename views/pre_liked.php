@@ -11,6 +11,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
-  <p>The user has not yet liked the page.</p>
+  <div class="">
+		<div class="row">
+			<div class="large-12 columns banner">
+				<img src="img/main_banner.jpg" alt="" class="main-banner">
+			</div>
+		</div>
 </body>
 </html>
